@@ -19,7 +19,6 @@ class ViewController: UIViewController {
        
     }
     
-    
     //MARK: -KingFisher
     
     func setImageViaKingFisher(url: String) {

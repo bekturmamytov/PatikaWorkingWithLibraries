@@ -8,4 +8,5 @@ target 'CocoapodsApp' do
   pod 'Alamofire'
   pod 'SnapKit'
   pod 'Kingfisher'
+  pod 'FLEX'
 end
